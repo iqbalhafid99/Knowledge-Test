@@ -88,7 +88,7 @@ To run this porject, run the following command
 
 ![AGPL License](https://img.shields.io/badge/mongodb-008000?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Server:** Node, Express, PostgreSQL
+**Server:** Node, Express, MongoDB
 
 ## Authors
 
