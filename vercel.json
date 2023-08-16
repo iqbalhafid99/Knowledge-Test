@@ -1,8 +1,9 @@
 {
-  "version": 2,
+  "version": 1,
+  "name": "authentication",
   "build": [
     {
-      "src": "./index.js",
+      "src": "index.js",
       "use": "@vercel/node"
     }
   ],
